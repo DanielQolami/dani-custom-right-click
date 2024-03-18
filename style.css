@@ -71,3 +71,8 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+
+.paragraph {
+  margin-inline: auto;
+  pointer-events: none;
+}
